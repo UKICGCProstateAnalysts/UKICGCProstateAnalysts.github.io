@@ -16,6 +16,10 @@ Over the lifetime of the project, there have naturally been changes within the a
 * The University of Manchester
 * The University of Oxford
 
+## Support
+
+Since 2023, the network has been supported by an Isaac Newton Institute network grant funded through the EPSRC.
+
 ## Outputs
 
 The analysts in this network have contributed to several papers using data from the Cancer Research UK funded Prostate [ICGC](icgc.org) project including.
@@ -30,7 +34,3 @@ The analysts in this network have contributed to several papers using data from 
 * Gundem G, Van Loo P, Kremeyer B, Alexandrov LB, Tubio JMC, Papaemmanuil E, Brewer DS, Kallio HML, Högnäs G, Annala M, Kivinummi K, Goody V, Latimer C, O'Meara S, Dawson KJ, Isaacs W, Emmert-Buck MR, Nykter M, Foster C, Kote-Jarai Z, Easton D, Whitaker HC, ICGC Prostate UK Group, Neal DE, Cooper CS, Eeles RA, Visakorpi T, Campbell PJ, McDermott U, Wedge DC and Bova GS (2015) "[The evolutionary history of lethal metastatic prostate cancer](https://pubmed.ncbi.nlm.nih.gov/25830880/)" *Nature* **520**, 353–357
 * Ju YS, Alexandrov LB, Gerstung M, Martincorena I, Nik-Zainal S, Ramakrishna M, Davies HR, Papaemmanuil E, Gundem G,  Shlien A, Bolli N, Behjati S, Tarpey PS, Nangalia J, Massie CE, Butler AP, Teague JW, Vassiliou GS, Green AR, Du M-Q, Unnikrishnan A, Pimanda JE, Teh BT, Munshi N, Greaves M, Vyas P, El-Naggar AK, Santarius T, Collins VP, Grundy R, Taylor JA, Hayes DN, Malkin D, ICGC Breast Cancer Group, ICGC Chronic Myeloid Disorders Group, ICGC Prostate Cancer Group, Foster C, Warren AY, Whitaker H, Brewer D, Eeles R, Cooper C, Neal D, Visakorpi T, Isaacs WB, Bova GS, Flanagan AM, Futreal PA, Lynch AG, Chinnery PF, McDermott U, Stratton MR and Campbell PJ. (2014) "[Origins and functional consequences of somatic mitochondrial DNA mutations in human cancer](https://pubmed.ncbi.nlm.nih.gov/25271376/)" *eLife* 10.7554/eLife.02935
 *Tubio JMC, Li Y, Ju YS, Martincorena I, Cooke SL, Tojo M, Gundem G, Pipinikas CP, Zamora J, Raine K, Menzies A, Roman-Garcia P, Fulham A, Gerstung M, Shlien A, Tarpey PS, Papaemmanuil E, Knappskog S, Van Loo P, Ramakrishna M, Davies HR, Marshall J, Wedge DC, Teague JW, Butler AP, Nik-Zainal S, Alexandrov L, Behjati S, Yates LR, Bolli N, Mudie L, Hardy C, Martin S, McLaren S, O'Meara S, Anderson E, Maddison M, Gamble S, ICGC Breast Cancer Group, ICGC Bone Cancer Group, ICGC Prostate Cancer Group, Foster C, Warren AY, Whitaker H, Brewer D, Eeles R, Cooper C, Neal D, Lynch AG, Visakorpi T, Isaacs WB, van 't Veer L, Caldas C, Desmedt C, Sotiriou C, Aparicio S, Foekens J, Eyfjörd JE, Lakhani SR, Thomas G, Myklebost O, Span PN, Børresen-Dale A-L, Richardson AL, Van de Vijver M, Vincent-Salomon A, Van den Eynden GG, Flanagan AM, Futreal PA, Janes SM, Bova GS, Stratton MR, McDermott U and Campbell PJ. (2014) "[Extensive transduction of nonrepetitive DNA mediated by L1 retrotransposition in cancer genomes](https://pubmed.ncbi.nlm.nih.gov/25082706/)" *Science* **345**, DOI:10.1126/science.1251343
-
-## Support
-
-Since 2023, the network has been supported by an Isaac Newton Institute network grant funded through the EPSRC.
