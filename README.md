@@ -22,7 +22,7 @@ Since 2023, the network has been supported by an Isaac Newton Institute network 
 
 ## Outputs
 
-The analysts in this network have contributed to several papers using data from the Cancer Research UK funded Prostate [ICGC](icgc.org) project including.
+The analysts in this network have contributed to several papers using data from the Cancer Research UK funded Prostate [ICGC](icgc.org) project including:
 
 * Burns D, Anokian E, Saunders EJ, *et al.* (2022) "[Rare Germline Variants Are Associated with Rapid Biochemical Recurrence After Radical Prostate Cancer Treatment: A Pan Prostate Cancer Group Study](https://pubmed.ncbi.nlm.nih.gov/35659150/)" *Eur Urol.* **82** 201-211
 * Hurst R, Meader E, Gihawi A, *et al.* (2022) "[Microbiomes of Urine and the Prostate Are Linked to Human Prostate Cancer Risk Groups](https://pubmed.ncbi.nlm.nih.gov/35450835/)" *Eur Urol Oncol.*  **5** 412-419
